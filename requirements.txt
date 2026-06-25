@@ -1,8 +1,4 @@
-# HLD → NC Liste Generator v3
-
-Streamlit web app za izvlačenje podataka iz HLD PDF-a i popunjavanje Vodafone/Telefonica NC liste.
-
-Deploy na Streamlit Cloud:
-- Repository: ToniNV/hld-nc-online
-- Branch: main
-- Main file path: app.py
+streamlit
+openpyxl
+pypdf
+pandas
